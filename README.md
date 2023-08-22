@@ -1,6 +1,7 @@
 Olá! Sou o Enzo!
 - 🌱 Atualmente estou estudando CodeIgniter4, React e Node.js
 - 📫 Contato: enzorussomiranda@gmail.com
+- Pode ser que tenham poucos commits por aqui pois na minha empresa uso viemos usando BitBucket!
 
 <div align="center">
   <a href="https://github.com/enolirumi">
