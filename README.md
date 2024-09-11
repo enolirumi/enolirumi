@@ -1,7 +1,7 @@
-Olá! Sou o Enzo!
-- 🌱 Atualmente estou estudando React e Node.js
-- 📫 Contato: enzorussomiranda@gmail.com
-- Pode ser que tenham poucos commits por aqui pois na minha empresa estamos usando Bitbucket!
+What's up! I'm Enzo!
+- 🌱 At the moment i'm learning ReactJS, Node.js and Express.
+- 📫 Contact: enzorussomiranda@gmail.com
+- It’s possible that there are few commits here because in my company we are using Bitbucket!
 
 <div align="center">
   <a href="https://github.com/enolirumi">
