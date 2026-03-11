@@ -1,7 +1,5 @@
 What's up! I'm Enzo Russo!
-- 🌱 At the moment i'm learning ReactJS, Node.js and Express.
 - 📫 Contact: enzorussomiranda@gmail.com
-- It’s possible that there are few commits here because in my company we are using Bitbucket!
 
 <div align="center">
   <a href="https://github.com/enolirumi">
